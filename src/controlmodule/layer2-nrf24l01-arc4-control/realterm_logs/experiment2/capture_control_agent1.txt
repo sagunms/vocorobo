@@ -1,0 +1,684 @@
+_tx1[0]=á, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=r, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=}, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=}, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=≤, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=é, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=É, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=•, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=∞, data_tx1[1]=1	loopcount ENDED = 3518
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=Æ, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=ª, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=…, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=0, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=‹, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=j, data_tx1[1]=1	loopcount ENDED = 3514
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=Y, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=Ò, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=(, data_tx1[1]=1	loopcount ENDED = 3518
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=¡, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]={, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=´, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=ú, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=D, data_tx1[1]=1	loopcount ENDED = 3518
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=≥, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=ô, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=π, data_tx1[1]=1	loopcount ENDED = 3518
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=+, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=R, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=ë, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=ë, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=π, data_tx1[1]=1	loopcount ENDED = 3514
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=T, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=¡, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=", data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=º, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=æ, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=é, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=Y, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=5, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=û, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=Ã, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=L, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=§, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=í, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=m, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=¥, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=Î, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=Ω, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=˘, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=J, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=i, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=ﬁ, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=≤, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=P, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=C, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=Q, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=ú, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=?, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=ö, data_tx1[1]=1	loopcount ENDED = 3515
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=ñ, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=¡, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=–, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=ª, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=Å, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=i, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=+, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=ú, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=I, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=y, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=€, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=Ì, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=√, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=î, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=c, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=9, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=[, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=°, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=M, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=., data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]={, data_tx1[1]=1	loopcount ENDED = 3515
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=Ì, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=ˇ, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=Z, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=~, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=Î, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=¸, data_tx1[1]=1	loopcount ENDED = 3515
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=n, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=´, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=∑, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=ó, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=™, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=∂, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=Ω, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=Ó, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=f, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]==, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=o, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=©, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=˛, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=S, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=U, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=U, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=ã, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=0, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=Û, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=n, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=D, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=Ï, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=¥, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=P, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=M, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=w, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=y, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=#, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=‘, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=“, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=”, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=Ù, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=…, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=	, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=1, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=§, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=Z, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=m, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=¢, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=ú, data_tx1[1]=1	loopcount ENDED = 3518
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=û, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]={, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=Q, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=r, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=µ, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=x, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]= , data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=´, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=Ò, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=–, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=*, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=Ó, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=j, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]= , data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=X, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=Ç, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=N, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=y, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=≈, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]= , data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=Æ, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=ı, data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=ˆ, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=ç, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=ı, data_tx1[1]=1	loopcount ENDED = 3518
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=›, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=ﬂ, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=Õ, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=9, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=Œ, data_tx1[1]=1	loopcount ENDED = 3518
+	No. of$Ò

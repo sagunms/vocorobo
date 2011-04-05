@@ -1,0 +1,24 @@
+#CodeVisionAVR Ignores
+*.asm
+*.?_cbf
+*.c~
+*.cof
+*.eep
+*.err
+*.inc
+*.lst
+*.map
+*.obj
+*.pr~
+*.rom
+*.vec
+*__.c
+
+# vim Ignore
+*.swp
+
+# kdiff3 Ignore
+*.orig
+
+# Misc Ignores
+Thumbs.db

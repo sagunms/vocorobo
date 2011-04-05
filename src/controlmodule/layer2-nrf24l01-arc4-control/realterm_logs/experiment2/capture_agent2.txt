@@ -1,0 +1,661 @@
+
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=` data_rx[1]=1
+
+	No. of Prga update = 1 times
+	Decryp data_rx[0]=0 data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=0, data_rx[1]=1
+	Encryp data_rx[0]=ó, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=¶ data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=ß data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=ß, data_rx[1]=1
+	Encryp data_rx[0]=É, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]= data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=v data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=v, data_rx[1]=1
+	Encryp data_rx[0]=á, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=ó data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=h data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=h, data_rx[1]=1
+	Encryp data_rx[0]=>, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=˘ data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=Ã data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=Ã, data_rx[1]=1
+	Encryp data_rx[0]=ñ, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=- data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=) data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=), data_rx[1]=1
+	Encryp data_rx[0]=T, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=	 data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]= data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=, data_rx[1]=1
+	Encryp data_rx[0]=≥, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=g data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]= data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=, data_rx[1]=1
+	Encryp data_rx[0]=„, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=1 data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=É data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=É, data_rx[1]=1
+	Encryp data_rx[0]=E, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=å data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=¯ data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=¯, data_rx[1]=1
+	Encryp data_rx[0]=ô, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=H data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=ì data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=ì, data_rx[1]=1
+	Encryp data_rx[0]=à, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=˝ data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=õ data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=õ, data_rx[1]=1
+	Encryp data_rx[0]=g, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=Í data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=& data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=&, data_rx[1]=1
+	Encryp data_rx[0]=„, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]= data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=k data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=k, data_rx[1]=1
+	Encryp data_rx[0]=û, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=a data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=≥ data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=≥, data_rx[1]=1
+	Encryp data_rx[0]=I, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=u data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=É data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=É, data_rx[1]=1
+	Encryp data_rx[0]=§, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=v data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=± data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=±, data_rx[1]=1
+	Encryp data_rx[0]=∏, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=≤ data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=Å data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=Å, data_rx[1]=1
+	Encryp data_rx[0]=·, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=Õ data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=# data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=#, data_rx[1]=1
+	Encryp data_rx[0]=D, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=Ø data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=Y data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=Y, data_rx[1]=1
+	Encryp data_rx[0]=», data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=Â data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=M data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=M, data_rx[1]=1
+	Encryp data_rx[0]=π, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=I data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=‘ data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=‘, data_rx[1]=1
+	Encryp data_rx[0]=ﬁ, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=	 data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=m data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=m, data_rx[1]=1
+	Encryp data_rx[0]=Ä, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=È data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=† data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=†, data_rx[1]=1
+	Encryp data_rx[0]=9, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]= data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=  data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]= , data_rx[1]=1
+	Encryp data_rx[0]=≤, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=Ω data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=h data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=h, data_rx[1]=1
+	Encryp data_rx[0]=A, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=  data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=Ì data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=Ì, data_rx[1]=1
+	Encryp data_rx[0]=Á, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=õ data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=ã data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=ã, data_rx[1]=1
+	Encryp data_rx[0]=§, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=k data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=Ω data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=Ω, data_rx[1]=1
+	Encryp data_rx[0]=8, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=; data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]= data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=, data_rx[1]=1
+	Encryp data_rx[0]=L, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=± data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]= data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=, data_rx[1]=1
+	Encryp data_rx[0]=ã, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=
+ data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]= data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=, data_rx[1]=1
+	Encryp data_rx[0]=, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=¢ data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=° data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=°, data_rx[1]=1
+	Encryp data_rx[0]=, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=Ö data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=  data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]= , data_rx[1]=1
+	Encryp data_rx[0]=i, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=` data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=û data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=û, data_rx[1]=1
+	Encryp data_rx[0]=ß, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=6 data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=˚ data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=˚, data_rx[1]=1
+	Encryp data_rx[0]=Ä, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=‚ data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=V data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=V, data_rx[1]=1
+	Encryp data_rx[0]=√, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=” data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=& data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=&, data_rx[1]=1
+	Encryp data_rx[0]=, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=2 data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]= data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=, data_rx[1]=1
+	Encryp data_rx[0]=R, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=ø data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=√ data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=√, data_rx[1]=1
+	Encryp data_rx[0]=m, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=π data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]= data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=, data_rx[1]=1
+	Encryp data_rx[0]=ì, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=Ì data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=ö data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=ö, data_rx[1]=1
+	Encryp data_rx[0]=1, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=1 data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=C data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=C, data_rx[1]=1
+	Encryp data_rx[0]=√, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]= data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=¡ data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=¡, data_rx[1]=1
+	Encryp data_rx[0]=˛, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=N data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=[ data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=[, data_rx[1]=1
+	Encryp data_rx[0]=Ù, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=: data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=µ data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=µ, data_rx[1]=1
+	Encryp data_rx[0]=„, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=— data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=Á data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=Á, data_rx[1]=1
+	Encryp data_rx[0]=•, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=À data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=K data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=K, data_rx[1]=1
+	Encryp data_rx[0]=, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=H data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=- data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=-, data_rx[1]=1
+	Encryp data_rx[0]=·, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=ˆ data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=, data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=,, data_rx[1]=1
+	Encryp data_rx[0]=ú, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=P data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=Â data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=Â, data_rx[1]=1
+	Encryp data_rx[0]=n, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=∏ data_rx[1]=1
+
+	No. of Prga update = 255 times
+	Decryp data_rx[0]=ÿ data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal [0]=, data_tx1[1]=1	loopcount ENDED = 3516
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]= , data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]= , data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=, data_tx1[1]=1	loopcount ENDED = 3520
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=e, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]=„, data_tx1[1]=1	loopcount ENDED = 3520
+	No. of Prga update = 255 times
+	Decryp data_tx1[0]=≈, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=ª, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----
+	Received data_tx1[0]= , data_tx1[1]=1	loopcount ENDED = 3517
+	No. of Prga

@@ -1,0 +1,669 @@
+
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=0
+	Encryp data_tx1[0]=', data_tx1[1]=0
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	No. of Prga update = 1 times
+	Decryp data_tx1[0]=ß, data_tx1[1]=1
+	(PING FAILED)
+	curseq1 = 2
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=1
+	Encryp data_tx1[0]=`, data_tx1[1]=1
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=;, data_tx1[1]=2
+	(PING FAILED)
+	curseq1 = 3
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=2
+	Encryp data_tx1[0]=—, data_tx1[1]=2
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=á, data_tx1[1]=3
+	(PING FAILED)
+	curseq1 = 4
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=3
+	Encryp data_tx1[0]=x, data_tx1[1]=3
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=Ü, data_tx1[1]=4
+	(PING FAILED)
+	curseq1 = 5
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=4
+	Encryp data_tx1[0]=, data_tx1[1]=4
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=¸, data_tx1[1]=5
+	(PING FAILED)
+	curseq1 = 6
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=5
+	Encryp data_tx1[0]=£, data_tx1[1]=5
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=∫, data_tx1[1]=6
+	(PING FAILED)
+	curseq1 = 7
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=6
+	Encryp data_tx1[0]=Û, data_tx1[1]=6
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=}, data_tx1[1]=7
+	(PING FAILED)
+	curseq1 = 8
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=7
+	Encryp data_tx1[0]=f, data_tx1[1]=7
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=R, data_tx1[1]=8
+	(PING FAILED)
+	curseq1 = 9
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=8
+	Encryp data_tx1[0]=ã, data_tx1[1]=8
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=ƒ, data_tx1[1]=9
+	(PING FAILED)
+	curseq1 = 10
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=9
+	Encryp data_tx1[0]=Ü, data_tx1[1]=9
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=, data_tx1[1]=10
+	(PING FAILED)
+	curseq1 = 11
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=10
+	Encryp data_tx1[0]=X, data_tx1[1]=10
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=Œ, data_tx1[1]=11
+	(PING FAILED)
+	curseq1 = 12
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=11
+	Encryp data_tx1[0]=w, data_tx1[1]=11
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=á, data_tx1[1]=12
+	(PING FAILED)
+	curseq1 = 13
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=12
+	Encryp data_tx1[0]=Ê, data_tx1[1]=12
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=Ø, data_tx1[1]=13
+	(PING FAILED)
+	curseq1 = 14
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=13
+	Encryp data_tx1[0]=q, data_tx1[1]=13
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=, data_tx1[1]=14
+	(PING FAILED)
+	curseq1 = 15
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=14
+	Encryp data_tx1[0]=	, data_tx1[1]=14
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=Ë, data_tx1[1]=15
+	(PING FAILED)
+	curseq1 = 16
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=15
+	Encryp data_tx1[0]=˛, data_tx1[1]=15
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=, data_tx1[1]=16
+	(PING FAILED)
+	curseq1 = 17
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=16
+	Encryp data_tx1[0]=ﬁ, data_tx1[1]=16
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=a, data_tx1[1]=17
+	(PING FAILED)
+	curseq1 = 18
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=17
+	Encryp data_tx1[0]=”, data_tx1[1]=17
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=ù, data_tx1[1]=18
+	(PING FAILED)
+	curseq1 = 19
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=18
+	Encryp data_tx1[0]=h, data_tx1[1]=18
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=£, data_tx1[1]=19
+	(PING FAILED)
+	curseq1 = 20
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=19
+	Encryp data_tx1[0]=ò, data_tx1[1]=19
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=Ω, data_tx1[1]=20
+	(PING FAILED)
+	curseq1 = 21
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=20
+	Encryp data_tx1[0]=, data_tx1[1]=20
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=¡, data_tx1[1]=21
+	(PING FAILED)
+	curseq1 = 22
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=21
+	Encryp data_tx1[0]=Ω, data_tx1[1]=21
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=é, data_tx1[1]=22
+	(PING FAILED)
+	curseq1 = 23
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=22
+	Encryp data_tx1[0]=°, data_tx1[1]=22
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=T, data_tx1[1]=23
+	(PING FAILED)
+	curseq1 = 24
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=23
+	Encryp data_tx1[0]=l, data_tx1[1]=23
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=ˆ, data_tx1[1]=24
+	(PING FAILED)
+	curseq1 = 25
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=24
+	Encryp data_tx1[0]=‹, data_tx1[1]=24
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=C, data_tx1[1]=25
+	(PING FAILED)
+	curseq1 = 26
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=25
+	Encryp data_tx1[0]=r, data_tx1[1]=25
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=Ì, data_tx1[1]=26
+	(PING FAILED)
+	curseq1 = 27
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=26
+	Encryp data_tx1[0]=Â, data_tx1[1]=26
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=ß, data_tx1[1]=27
+	(PING FAILED)
+	curseq1 = 28
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=27
+	Encryp data_tx1[0]=ê, data_tx1[1]=27
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=§, data_tx1[1]=28
+	(PING FAILED)
+	curseq1 = 29
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=28
+	Encryp data_tx1[0]=q, data_tx1[1]=28
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=, data_tx1[1]=29
+	(PING FAILED)
+	curseq1 = 30
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=29
+	Encryp data_tx1[0]=ù, data_tx1[1]=29
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=0, data_tx1[1]=30
+	(PING FAILED)
+	curseq1 = 31
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=30
+	Encryp data_tx1[0]=8, data_tx1[1]=30
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=≥, data_tx1[1]=31
+	(PING FAILED)
+	curseq1 = 32
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=31
+	Encryp data_tx1[0]=◊, data_tx1[1]=31
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=, data_tx1[1]=32
+	(PING FAILED)
+	curseq1 = 33
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=32
+	Encryp data_tx1[0]=ä, data_tx1[1]=32
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=n, data_tx1[1]=33
+	(PING FAILED)
+	curseq1 = 34
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=33
+	Encryp data_tx1[0]=„, data_tx1[1]=33
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=ÿ, data_tx1[1]=34
+	(PING FAILED)
+	curseq1 = 35
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=34
+	Encryp data_tx1[0]=*, data_tx1[1]=34
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=–, data_tx1[1]=35
+	(PING FAILED)
+	curseq1 = 36
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=35
+	Encryp data_tx1[0]=v, data_tx1[1]=35
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=Ú, data_tx1[1]=36
+	(PING FAILED)
+	curseq1 = 37
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=36
+	Encryp data_tx1[0]=«, data_tx1[1]=36
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=ä, data_tx1[1]=37
+	(PING FAILED)
+	curseq1 = 38
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=37
+	Encryp data_tx1[0]=Ü, data_tx1[1]=37
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=7, data_tx1[1]=38
+	(PING FAILED)
+	curseq1 = 39
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=38
+	Encryp data_tx1[0]=0, data_tx1[1]=38
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=S, data_tx1[1]=39
+	(PING SUCCESS)
+	curseq1 = 40
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=39
+	Encryp data_tx1[0]=P, data_tx1[1]=39
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=R, data_tx1[1]=40
+	(PING FAILED)
+	curseq1 = 41
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=40
+	Encryp data_tx1[0]=], data_tx1[1]=40
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=˘, data_tx1[1]=41
+	(PING FAILED)
+	curseq1 = 42
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=41
+	Encryp data_tx1[0]=J, data_tx1[1]=41
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=ˇ, data_tx1[1]=42
+	(PING FAILED)
+	curseq1 = 43
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=42
+	Encryp data_tx1[0]=;, data_tx1[1]=42
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=≥, data_tx1[1]=43
+	(PING FAILED)
+	curseq1 = 44
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=43
+	Encryp data_tx1[0]=C, data_tx1[1]=43
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=b, data_tx1[1]=44
+	(PING FAILED)
+	curseq1 = 45
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=44
+	Encryp data_tx1[0]==, data_tx1[1]=44
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=Y, data_tx1[1]=45
+	(PING FAILED)
+	curseq1 = 46
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=45
+	Encryp data_tx1[0]=î, data_tx1[1]=45
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=z, data_tx1[1]=46
+	(PING FAILED)
+	curseq1 = 47
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=46
+	Encryp data_tx1[0]=[, data_tx1[1]=46
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=x, data_tx1[1]=47
+	(PING FAILED)
+	curseq1 = 48
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=47
+	Encryp data_tx1[0]=›, data_tx1[1]=47
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=m, data_tx1[1]=48
+	(PING FAILED)
+	curseq1 = 49
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=48
+	Encryp data_tx1[0]=v, data_tx1[1]=48
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=“, data_tx1[1]=49
+	(PING FAILED)
+	curseq1 = 50
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=49
+	Encryp data_tx1[0]=, data_tx1[1]=49
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=,, data_tx1[1]=50
+	(PING FAILED)
+	curseq1 = 51
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=50
+	Encryp data_tx1[0]=$, data_tx1[1]=50
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=;, data_tx1[1]=51
+	(PING FAILED)
+	curseq1 = 52
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=51
+	Encryp data_tx1[0]=…, data_tx1[1]=51
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=, data_tx1[1]=52
+	(PING FAILED)
+	curseq1 = 53
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=52
+	Encryp data_tx1[0]=, data_tx1[1]=52
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=≥, data_tx1[1]=53
+	(PING FAILED)
+	curseq1 = 54
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=53
+	Encryp data_tx1[0]=Ö, data_tx1[1]=53
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=ë, data_tx1[1]=54
+	(PING FAILED)
+	curseq1 = 55
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=54
+	Encryp data_tx1[0]=¬, data_tx1[1]=54
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=ã, data_tx1[1]=55
+	(PING FAILED)
+	curseq1 = 56
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=55
+	Encryp data_tx1[0]={, data_tx1[1]=55
+	packet sent
+	cur_letter1 = roboControl() = F
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=á, data_tx1[1]=56
+	(PING FAILED)
+	curseq1 = 57
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=F, data_tx1[1]=56
+	Encryp data_tx1[0]=[, data_tx1[1]=56
+	packet sent
+	cur_letter1 = roboControl() = R
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=≤, data_tx1[1]=57
+	(PING FAILED)
+	curseq1 = 58
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=R, data_tx1[1]=57
+	Encryp data_tx1[0]=ÿ, data_tx1[1]=57
+	packet sent
+	cur_letter1 = roboControl() = L
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=¢, data_tx1[1]=58
+	(PING FAILED)
+	curseq1 = 59
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=L, data_tx1[1]=58
+	Encryp data_tx1[0]=≠, data_tx1[1]=58
+	packet sent
+	cur_letter1 = roboControl() = B
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=¸, data_tx1[1]=59
+	(PING FAILED)
+	curseq1 = 60
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=B, data_tx1[1]=59
+	Encryp data_tx1[0]=V, data_tx1[1]=59
+	packet sent
+	cur_letter1 = roboControl() = B
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=a, data_tx1[1]=60
+	(PING FAILED)
+	curseq1 = 61
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=B, data_tx1[1]=60
+	Encryp data_tx1[0]=-, data_tx1[1]=60
+	packet sent
+	cur_letter1 = roboControl() = R
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=p, data_tx1[1]=61
+	(PING FAILED)
+	curseq1 = 62
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=R, data_tx1[1]=61
+	Encryp data_tx1[0]=ï, data_tx1[1]=61
+	packet sent
+	cur_letter1 = roboControl() = F
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=é, data_tx1[1]=62
+	(PING FAILED)
+	curseq1 = 63
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=F, data_tx1[1]=62
+	Encryp data_tx1[0]=, data_tx1[1]=62
+	packet sent
+	cur_letter1 = roboControl() = B
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=’, data_tx1[1]=63
+	(PING FAILED)
+	curseq1 = 64
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=B, data_tx1[1]=63
+	Encryp data_tx1[0]=ﬂ, data_tx1[1]=63
+	packet sent
+	cur_letter1 = roboControl() = L
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=ﬁ, data_tx1[1]=64
+	(PING FAILED)
+	curseq1 = 65
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=L, data_tx1[1]=64
+	Encryp data_tx1[0]=Œ, data_tx1[1]=64
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=Ø, data_tx1[1]=65
+	(PING FAILED)
+	curseq1 = 66
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=65
+	Encryp data_tx1[0]=j, data_tx1[1]=65
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----	loopcount ENDED = 20000
+	Decryp data_tx1[0]=c, data_tx1[1]=66
+	(PING FAILED)
+	curseq1 = 67
+LOOP
+--- TRANSMISSION - 1----
+	Normal data_tx1[0]=S, data_tx1[1]=66
+	Encryp data_tx1[0]=À, data_tx1[1]=66
+	packet sent
+	cur_letter1 = roboControl() = S
+--- RECEPTION - 1----

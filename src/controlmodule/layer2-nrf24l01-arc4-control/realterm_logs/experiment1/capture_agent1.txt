@@ -1,0 +1,137 @@
+
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=' data_rx[1]=0
+
+curseq = 1
+--- TRANSMISSION ----
+	Normal data_rx[0]=', data_rx[1]=0
+	Encryp data_rx[0]=', data_rx[1]=0
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=` data_rx[1]=1
+
+curseq = 2
+--- TRANSMISSION ----
+	Normal data_rx[0]=`, data_rx[1]=1
+	Encryp data_rx[0]=`, data_rx[1]=1
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=Ñ data_rx[1]=2
+
+curseq = 3
+--- TRANSMISSION ----
+	Normal data_rx[0]=Ñ, data_rx[1]=2
+	Encryp data_rx[0]=Ñ, data_rx[1]=2
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=x data_rx[1]=3
+
+curseq = 4
+--- TRANSMISSION ----
+	Normal data_rx[0]=x, data_rx[1]=3
+	Encryp data_rx[0]=x, data_rx[1]=3
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]= data_rx[1]=4
+
+curseq = 5
+--- TRANSMISSION ----
+	Normal data_rx[0]=, data_rx[1]=4
+	Encryp data_rx[0]=, data_rx[1]=4
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=£ data_rx[1]=5
+
+curseq = 6
+--- TRANSMISSION ----
+	Normal data_rx[0]=£, data_rx[1]=5
+	Encryp data_rx[0]=£, data_rx[1]=5
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=æ data_rx[1]=6
+
+curseq = 7
+--- TRANSMISSION ----
+	Normal data_rx[0]=æ, data_rx[1]=6
+	Encryp data_rx[0]=æ, data_rx[1]=6
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=g data_rx[1]=7
+
+curseq = 8
+--- TRANSMISSION ----
+	Normal data_rx[0]=g, data_rx[1]=7
+	Encryp data_rx[0]=g, data_rx[1]=7
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=Š data_rx[1]=8
+
+curseq = 9
+--- TRANSMISSION ----
+	Normal data_rx[0]=Š, data_rx[1]=8
+	Encryp data_rx[0]=Š, data_rx[1]=8
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=— data_rx[1]=9
+
+curseq = 10
+--- TRANSMISSION ----
+	Normal data_rx[0]=—, data_rx[1]=9
+	Encryp data_rx[0]=—, data_rx[1]=9
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=G data_rx[1]=10
+
+curseq = 11
+--- TRANSMISSION ----
+	Normal data_rx[0]=G, data_rx[1]=10
+	Encryp data_rx[0]=G, data_rx[1]=10
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=v data_rx[1]=11
+
+curseq = 12
+--- TRANSMISSION ----
+	Normal data_rx[0]=v, data_rx[1]=11
+	Encryp data_rx[0]=v, data_rx[1]=11
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=ù data_rx[1]=12
+
+curseq = 13
+--- TRANSMISSION ----
+	Normal data_rx[0]=ù, data_rx[1]=12
+	Encryp data_rx[0]=ù, data_rx[1]=12
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]=` data_rx[1]=13
+
+curseq = 14
+--- TRANSMISSION ----
+	Normal data_rx[0]=`, data_rx[1]=13
+	Encryp data_rx[0]=`, data_rx[1]=13
+	packet sent
+--- RECEPTION ----
+	packet received
+	Normal data_rx[0]= data_rx[1]=14
+
+curseq = 15
+--- TRANSMISSION ----
+	Normal data_rx[0]=, data_rx[1]=14
+	Encryp data_rx[0]=, data_rx[1]=14
+	packet sent
+--- RECEPTION ----
