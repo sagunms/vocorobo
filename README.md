@@ -69,18 +69,18 @@ It consists of two identical robots (A and B) which can be positioned at differe
 * These files are similar as that described in Layer 2. the ARC4 cryptography routine has variables for only a single robot unlike in Layer2.
 
 
-## Embedded Platform 
+# Embedded Platform 
 
 * Control Module Layer 1: ATmega32 (F_CLK = 16 MHz)
 * Control Module Layer 2 and Robot Modules 1 and 2: ATmega16 (F_CLK = 8 MHz)
 
-# Interfacing Components
+## Interfacing Components
 
 * Control Module Layer 1: Mic + 500 gain amp (PA0), 16x2 LCD (PC), MMA7260Q (PA3-5), ATK200(PA0-2), MAX233A (PD0,1), Pushbuttons(PB4-7), 16MHz XTAL, etc.
 * Control Module Layer 2: nRF24L01+ (PD2-7), LEDs (PC0-7), ATmega32 (PA0-2), MAX232 (PD0,1)
 * Robot Modules 1 and 2: nRF24L01+ (PD2-7), LEDs (PC0-7), ATmega32 (PA0-2), MAX232 (PD0,1), L293D (PD0-3) + DC Geared Motors
 
-# Software used
+## Software used
 
 * HP InfoTech CodeVisionAVR C Compiler 1.2.4.5
 * AVRDude 5.6
