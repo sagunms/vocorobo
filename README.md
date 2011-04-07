@@ -3,9 +3,6 @@ VoCoRoBo: Remote Speech Recognition and Tilt-Sensing Multi-Robotic System
 
 VoCoRoBo stands for Voice Controlled RoBot. This work  is  based  on  the  implementation  of  real-time  speech  recognition  using DSP algorithms such as Chebyshev  IIR  filters, accelerometer for tilt-sensing and establishment of short-range  wireless  secure  link with ARC4  cipher,  all  using  low-cost  8-bit ATmega microcontrollers. The  robot  implements  a  simple  but  effective  algorithm  for  comparing  the spoken word  with a dictionary of fingerprints using a modified Euclidean distance calculation. It also includes the ability to securely control the navigation of multiple robots located at remote locations wirelessly from the Control Module and also gather the various environmental data collected by the Robot Modules and display them in the back to Control. Considering the time-critical algorithms actually requiring large computations as well as a variety of sensors interfaced in the system, this project can demonstrate how one can build an expansible multi-robotic system from cheap and ubiquitous electronics. 
 
-# Introduction
-==============
-
 The system is divided into two broad sub-subsystems: Control Module and Multi-Robot Module.  The Control Module is further divided into two layers: the topmost layer and the second layer.
 
 # Control Module
@@ -72,20 +69,18 @@ It consists of two identical robots (A and B) which can be positioned at differe
 * These files are similar as that described in Layer 2. the ARC4 cryptography routine has variables for only a single robot unlike in Layer2.
 
 
-# Requirements
-
 ## Embedded Platform 
 
 * Control Module Layer 1: ATmega32 (F_CLK = 16 MHz)
 * Control Module Layer 2 and Robot Modules 1 and 2: ATmega16 (F_CLK = 8 MHz)
 
-## Interfacing Components
+# Interfacing Components
 
 * Control Module Layer 1: Mic + 500 gain amp (PA0), 16x2 LCD (PC), MMA7260Q (PA3-5), ATK200(PA0-2), MAX233A (PD0,1), Pushbuttons(PB4-7), 16MHz XTAL, etc.
 * Control Module Layer 2: nRF24L01+ (PD2-7), LEDs (PC0-7), ATmega32 (PA0-2), MAX232 (PD0,1)
 * Robot Modules 1 and 2: nRF24L01+ (PD2-7), LEDs (PC0-7), ATmega32 (PA0-2), MAX232 (PD0,1), L293D (PD0-3) + DC Geared Motors
 
-## Software used
+# Software used
 
 * HP InfoTech CodeVisionAVR C Compiler 1.2.4.5
 * AVRDude 5.6
