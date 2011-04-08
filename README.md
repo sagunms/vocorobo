@@ -91,7 +91,7 @@ It consists of two identical robots (A and B) which can be positioned at differe
 
 VoCoRoBo is intended to be used in both open-source and commercial environments. It is licensed under Apache License v2.0 license. Please review LICENSE.txt for more details.
 
-VoCoRoBo Team: Sagun Man Singh Shrestha, Labu Manandhar and Ritesh Bhattarai
+Thanks to the team: Labu Manandhar and Ritesh Bhattarai
 
 Sagun Man Singh Shrestha [sagunms.wordpress.com](http://sagunms.wordpress.com) | [sagunms.com.np](http://sagunms.com.np)
 Follow me on Twitter [@sagunms](http://www.twitter.com/sagunms)
