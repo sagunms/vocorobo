@@ -95,4 +95,4 @@ Sagun Man Singh Shrestha [sagunms.wordpress.com](http://sagunms.wordpress.com) |
 
 Follow me on Twitter [@sagunms](http://www.twitter.com/sagunms)
 
-Kudos to VoCoRoBo Team: Labu Manandhar and Ritesh Bhattarai
+VoCoRoBo Team: Sagun Man Singh Shrestha, Labu Manandhar and Ritesh Bhattarai
